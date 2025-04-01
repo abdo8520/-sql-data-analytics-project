@@ -103,4 +103,4 @@ to see the roadmap [click here](https://github.com/abdo8520/-sql-data-analytics-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/abdulrahman-mahamadien/))
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulrahman-rayan.com))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulrahman-rayan.com)
