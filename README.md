@@ -94,7 +94,7 @@ Following the exploratory phase, advanced analytical techniques were implemented
 ---
 ## 🗺 Analytical Roadmap
 This project follows a structured analytical process, transitioning from direct exploratory analysis (EDA) to advanced data analytics, ensuring comprehensive insights.
-to see the roadmap [click here](https://github.com/abdo8520/-sql-data-analytics-project/blob/main/Roadmap.jpg)
+to see the roadmap [click here](https://github.com/abdo8520/-sql-data-analytics-project/blob/main/ROADMAP.jpg)
 
 ---
 
